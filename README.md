@@ -1,4 +1,4 @@
-# Terrorist Attacks Visualization in Europe
+# Terrorist Attacks in Europe (1970-2021) Analysis
 
 This repository contains a Shiny application and visualizations in R language analyzing terrorist attacks across European countries between 1970-2021. The data is processed to explore trends, attack methods, and fatalities using interactive and static visualizations.
 
